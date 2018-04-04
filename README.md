@@ -10,6 +10,6 @@ Usage:
 
 <script src="jquery.disable-autofill.js"></script>
 <script>
-  $('input[autofill="off"]).disableAutofill();
+  $('input[autofill="off"]').disableAutofill();
 </script>
 ```
